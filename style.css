@@ -1,0 +1,17 @@
+body{
+	background-color: #ff62ac;
+	font-family: sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+}
+
+.content{
+	max-width: 500px;
+	margin: 50px auto;
+	background-color: white;
+	border-radius: 10px;
+	background-size: 100% 3rem;
+	box-shadow: 10px 10px 0px rgba(0,0,0,0.1);
+	padding: 1rem 1rem 1rem 1rem ;
+	position: relative;
+}
